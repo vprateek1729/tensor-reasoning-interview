@@ -1,0 +1,5 @@
+torchtyping
+hypothesis
+pytest
+colour
+chalk-diagrams @ git+https://github.com/chalk-diagrams/chalk.git
